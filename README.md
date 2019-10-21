@@ -1,6 +1,6 @@
 # Recommendation-Engine
 Recommendation Engines in Python
-Using similarity matrix
+Using similarity matrix measure
 
 1. Collaborative:
 - user based collaborative
