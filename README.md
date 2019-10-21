@@ -5,4 +5,4 @@ Using similarity matrix
 1. Collaborative:
 - user based collaborative
 - item based collaborative
-2. Content based
+2. Content based Engine
